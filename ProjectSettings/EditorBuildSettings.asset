@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/UserInputScene.unity
+    guid: 8b5f2221ef52f284c85769c3c5eca17c
+  - enabled: 1
+    path: Assets/Scenes/GoalSelectionScene.unity
+    guid: 35d4c5011cfef5844ad4fe8fce6afa7e
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 04ef1364563f6554d95caead524c64fb
+  - enabled: 1
+    path: Assets/Scenes/MealsScene.unity
+    guid: 33328699ce07efa4f90b1176b89b23b7
+  - enabled: 1
+    path: Assets/Scenes/LoginRegisterScene.unity
+    guid: 6a2b495ee52be6446b9317dc568ce6fd
+  - enabled: 1
+    path: Assets/Scenes/AdminMealScene.unity
+    guid: 2e951b548743169478b6c7cbdb1bd6fa
+  - enabled: 1
+    path: Assets/Scenes/AdminScene.unity
+    guid: c2c163085de5ba8448b02d7b4ce3a486
+  - enabled: 1
+    path: Assets/Scenes/AdminWorkoutScene.unity
+    guid: 6e54456244f5a6740ae8922bfa34921a
+  - enabled: 1
+    path: Assets/Scenes/WorkoutScene.unity
+    guid: a96f9504b50ce3d42b71015ab289fd95
+  - enabled: 1
+    path: Assets/Scenes/AdminIWorkoutScene.unity
+    guid: f95c96c41eec59b488f995bf9f92836f
+  - enabled: 1
+    path: Assets/Scenes/AdminXWorkoutScene.unity
+    guid: 2a6f47877806ee94b9ad2ce787fb89ad
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 69fd396d3b88c7f4f8604c8e0a3377c9, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 05ad840384608744e8244d078187c8e3, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9b4f1612d554f0a489275cc86f190d6c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
